@@ -1,0 +1,40 @@
+body
+{
+	background-image: url("background1.jfif");
+    background-size: cover;
+    background-position: inherit;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+        margin-left: 200px;
+        margin-right: 200px;
+        padding-top: 20px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1_name , #player_2_name
+{
+	display: inline-block;
+	margin-left: 0px;
+    border-radius: 100px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+line {
+    width: 5px;
+    color: blue;
+}
+
